@@ -1,5 +1,5 @@
 
-# Zoom Clone - Video Conferencing Application
+# Vedio-chat - Video Conferencing Application
 
 A full-stack video conferencing application built using the **MERN** stack (MongoDB, Express, React, Node.js), **Socket.io**, and **WebRTC**. This application allows users to create meetings, join via unique URLs, video chat, share screens, and chat in real-time.
 
